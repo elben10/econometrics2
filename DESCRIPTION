@@ -11,3 +11,11 @@ Description: The packages provides all neccessary tools to answer questions in t
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Imports: 
+    rlang,
+    stats,
+    tibble,
+    magrittr
+RoxygenNote: 6.0.1
+Url: https://github.com/elben10/econometrics2
+BugReports: https://github.com/elben10/econometrics2/issues
