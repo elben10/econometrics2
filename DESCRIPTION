@@ -1,0 +1,13 @@
+Package: econometrics2
+Type: Package
+Title: Provides all neccessary tools for the courses "Probability theory and statistics", "Econometrics I" and
+    "Econometrics II" at University of Copenhagen
+Version: 0.1.0
+Authors@R: c(person("Jakob Jul", "Elben", email = "elbenjakobjul@gmail.com"),
+             person("Rasmus", "Salmon", email = "rasmussalmon@gmail.com"))
+Description: The packages provides all neccessary tools to answer questions in the courses mentioned above at 
+             University of Copenhagen. The package aim at letting upcomming students use R instead or as supplement to 
+             Stata and Oxmetrics.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
